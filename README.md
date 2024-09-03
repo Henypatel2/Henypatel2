@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning mobile application **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Henypatel02](https://github.com/Henypatel02)
+- 👨‍💻 All of my projects are available at [https://github.com/Henypatel02](https://github.com/Henypatel2)
 
 - 💬 Ask me about **react,Html,css,js**
 
